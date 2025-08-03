@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bowling Game</string>
+    <string name="heading_bowling_score_calculator">Bowling Score Calculator</string>
+    <string name="label_enter_rolls">Enter Rolls (e.g., X7/9-X-881-6/X81)</string>
+    <string name="label_enter_roll_string">Enter your roll string above.</string>
+    <string name="label_total_score">Total Score: %d</string>
 </resources>
